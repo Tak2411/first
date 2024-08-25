@@ -1,0 +1,162 @@
+.logo {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    top: 19px;
+}
+
+hr {
+    top: 79px;
+    width: 552px;
+    height: 1px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #F3F3F3;
+
+}
+
+h1 {
+    width: 552px;
+height: 48px;
+top: 20px;
+margin-left: 24px; 
+margin-top: 20px;
+font-family: Poppins;
+font-size: 30px;
+font-weight: 400;
+line-height: 36px;
+text-align: left;
+}
+
+.cards {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+
+
+}
+
+.title {
+    width: 260px;
+height: 30px;
+top: 301px;
+left: 8px;
+gap: 0px;
+opacity: 0px;
+}
+
+.name {
+    margin: auto;
+    font-family: Poppins;
+font-size: 20px;
+font-weight: 400;
+line-height: 30px;
+letter-spacing: -0.01em;
+text-align: left;
+
+}
+
+.image {
+    width: 260px;
+height: 235px;
+}
+
+.price {
+    width: 259px;
+height: 24px;
+top: 332px;
+left: 9px;
+gap: 0px;
+opacity: 0px;
+}
+
+
+h3 {
+margin: auto;
+font-family: Poppins;
+font-size: 16px;
+font-weight: 500;
+line-height: 24px;
+text-align: left;
+color: #489DFF;
+}
+
+button {
+    width: Hug (131px)px;
+height: Fixed (48px)px;
+top: 372px;
+left: 6px;
+padding: 16px 50px 16px 50px;
+gap: 10px;
+border-radius: 7px 0px 0px 0px;
+opacity: 0px;
+background-color:#489DFF;
+border-radius: 7px;
+border-color: #489DFF;
+}
+
+p {
+    font-family: Montserrat;
+font-size: 15px;
+font-weight: 700;
+line-height: 16px;
+text-align: center;
+color: #F3F3F3;
+margin: auto;
+}
+
+body {
+    
+    width: 600px;
+    height: 1218px;
+    left: 355px;
+}
+
+.br2 {
+    height: 30px;
+}
+
+.hr2 {
+    margin-top: 30px;
+
+}
+
+.copyright {    
+    width: 552px;
+height: 20px;
+gap: 0px;
+opacity: 0px;
+}
+
+.copyright1 {
+font-family: Poppins;
+font-size: 12px;
+font-weight: 400;
+line-height: 20px;
+text-align: center;
+color: #525F7F;
+}
+
+.contact {
+    width: 552px;
+height: 20px;
+gap: 0px;
+opacity: 0px;
+}
+
+.contact1 {
+font-family: Poppins;
+font-size: 12px;
+font-weight: 400;
+line-height: 20px;
+text-align: center;
+color: #525F7F;
+}
+
+.social {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 20px;
+}
